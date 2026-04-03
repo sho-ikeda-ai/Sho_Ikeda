@@ -2,7 +2,7 @@
 
 I build practical AI workflows for real work.
 
-My focus is not AI for demos or hype. I care about systems that help people think more clearly, reduce repeated mistakes, and make day-to-day work more reliable.
+I focus on systems that help people think more clearly, reduce repeated mistakes, and make day-to-day work more reliable.
 
 ## What I work on
 
